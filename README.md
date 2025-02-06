@@ -2,9 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Live demo
 
-In the project directory, you can run:
+
+[live demo](https://lunacalsite.netlify.app/)
 
 ### `npm start`
 
